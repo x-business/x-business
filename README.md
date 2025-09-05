@@ -26,7 +26,7 @@
 ## Tech Stack:
 
 <div>
-     <img src="https://github-readme-stats-omega-six-40.vercel.app/api/top-langs?username=MichaelM&langs_count=20&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+     <img src="https://github-readme-stats-omega-six-40.vercel.app/api/top-langs?username=x-business&langs_count=20&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
   
 <h2 align="center">Language and Tools</h2>
@@ -130,7 +130,7 @@
     
 ## GitHub Stats:
 
-[![x-business's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelMariano&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/x-business/github-readme-activity-graph)
+[![x-business's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=x-business&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/x-business/github-readme-activity-graph)
 <br/>
 
 <div>   
