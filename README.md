@@ -130,15 +130,15 @@
     
 ## GitHub Stats:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelMariano&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![x-business's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelMariano&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/x-business/github-readme-activity-graph)
 <br/>
 
 <div>   
-   <img src="https://github-readme-stats-omega-six-40.vercel.app/api?username=MichaelMariano&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelMariano&theme=radical&hide_border=false"/>
+   <img src="https://github-readme-stats-omega-six-40.vercel.app/api?username=x-business&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-business&theme=radical&hide_border=false"/>
 </div>
 
 <br/> <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/MichaelMariano/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/x-business/count.svg)
 
